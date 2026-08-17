@@ -39,6 +39,7 @@ Collection of LeetCode Problems...
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0344-reverse-string) |
 ## Stack
 |  |
@@ -50,6 +51,7 @@ Collection of LeetCode Problems...
 | [0011-container-with-most-water](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0344-reverse-string) |

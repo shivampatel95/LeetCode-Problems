@@ -56,6 +56,7 @@ Collection of LeetCode Problems...
 | [0283-move-zeroes](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0876-middle-of-the-linked-list](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -110,4 +111,8 @@ Collection of LeetCode Problems...
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

@@ -81,6 +81,7 @@ Collection of LeetCode Problems...
 | ------- |
 | [0367-valid-perfect-square](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivamp7484/LeetCode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
@@ -115,4 +116,5 @@ Collection of LeetCode Problems...
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivamp7484/LeetCode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->

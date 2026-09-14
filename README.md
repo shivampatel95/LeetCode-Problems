@@ -29,6 +29,7 @@ Collection of LeetCode Problems...
 | [0485-max-consecutive-ones](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivamp7484/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@ Collection of LeetCode Problems...
 | [0344-reverse-string](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0876-middle-of-the-linked-list](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -68,6 +70,7 @@ Collection of LeetCode Problems...
 | ------- |
 | [0015-3sum](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0015-3sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |

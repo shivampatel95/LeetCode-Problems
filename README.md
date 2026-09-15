@@ -34,6 +34,7 @@ Collection of LeetCode Problems...
 | [0713-subarray-product-less-than-k](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivamp7484/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shivampatel95/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@ Collection of LeetCode Problems...
 | [0367-valid-perfect-square](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivamp7484/LeetCode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shivampatel95/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sliding Window
 |  |
 | ------- |

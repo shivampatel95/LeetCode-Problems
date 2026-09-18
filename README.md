@@ -87,6 +87,7 @@ Collection of LeetCode Problems...
 | [0035-search-insert-position](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0704-binary-search) |
@@ -136,4 +137,8 @@ Collection of LeetCode Problems...
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivamp7484/LeetCode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

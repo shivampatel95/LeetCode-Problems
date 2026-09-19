@@ -13,7 +13,7 @@ class Solution {
             if(j-i+1<k){
                 j++;
             }if(j-i+1==k){
-                 diff = nums[j]-nums[j-1];
+                diff = nums[j]-nums[j-1];
                 maxDiff = Math.max(diff,maxDiff);
                 diff = diff-nums[i];
                 i++;

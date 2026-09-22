@@ -37,6 +37,7 @@ Collection of LeetCode Problems...
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivamp7484/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivampatel95/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -100,6 +101,7 @@ Collection of LeetCode Problems...
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivamp7484/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |

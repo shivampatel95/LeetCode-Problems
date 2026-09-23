@@ -108,6 +108,7 @@ Collection of LeetCode Problems...
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0367-valid-perfect-square](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivamp7484/LeetCode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |

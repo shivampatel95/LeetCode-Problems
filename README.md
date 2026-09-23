@@ -17,6 +17,7 @@ Collection of LeetCode Problems...
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0016-3sum-closest) |
@@ -89,6 +90,7 @@ Collection of LeetCode Problems...
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -163,4 +165,8 @@ Collection of LeetCode Problems...
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0164-maximum-gap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

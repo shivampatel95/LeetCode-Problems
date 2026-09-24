@@ -43,6 +43,7 @@ Collection of LeetCode Problems...
 | [0977-squares-of-a-sorted-array](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivamp7484/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivampatel95/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/shivampatel95/LeetCode-Problems/tree/master/1800-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |

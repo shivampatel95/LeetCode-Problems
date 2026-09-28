@@ -48,12 +48,14 @@ Collection of LeetCode Problems...
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0344-reverse-string) |
 ## Stack
@@ -118,6 +120,7 @@ Collection of LeetCode Problems...
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |

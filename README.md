@@ -49,6 +49,7 @@ Collection of LeetCode Problems...
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -56,6 +57,7 @@ Collection of LeetCode Problems...
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
@@ -126,6 +128,7 @@ Collection of LeetCode Problems...
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |

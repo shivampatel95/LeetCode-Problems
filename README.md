@@ -147,6 +147,7 @@ Collection of LeetCode Problems...
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -163,6 +164,7 @@ Collection of LeetCode Problems...
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivamp7484/LeetCode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Interactive

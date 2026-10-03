@@ -26,6 +26,7 @@ Collection of LeetCode Problems...
 | [0027-remove-element](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -121,6 +122,7 @@ Collection of LeetCode Problems...
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0367-valid-perfect-square](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivamp7484/LeetCode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -196,4 +198,8 @@ Collection of LeetCode Problems...
 | ------- |
 | [0383-ransom-note](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->

@@ -29,6 +29,7 @@ Collection of LeetCode Problems...
 | [0039-combination-sum](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -99,6 +100,7 @@ Collection of LeetCode Problems...
 | [0015-3sum](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0164-maximum-gap](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0164-maximum-gap) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -164,6 +166,7 @@ Collection of LeetCode Problems...
 | [0039-combination-sum](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |

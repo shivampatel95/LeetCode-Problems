@@ -32,6 +32,7 @@ Collection of LeetCode Problems...
 | [0047-permutations-ii](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -66,6 +67,7 @@ Collection of LeetCode Problems...
 | [0020-valid-parentheses](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0383-ransom-note) |
@@ -168,6 +170,7 @@ Collection of LeetCode Problems...
 | [0046-permutations](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -211,4 +214,9 @@ Collection of LeetCode Problems...
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

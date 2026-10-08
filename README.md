@@ -178,6 +178,7 @@ Collection of LeetCode Problems...
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivamp7484/LeetCode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -201,6 +202,7 @@ Collection of LeetCode Problems...
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 ## Queue
 |  |
 | ------- |
@@ -219,4 +221,16 @@ Collection of LeetCode Problems...
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0079-word-search) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

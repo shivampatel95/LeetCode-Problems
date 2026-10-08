@@ -180,6 +180,7 @@ Collection of LeetCode Problems...
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0092-reverse-linked-list-ii](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |

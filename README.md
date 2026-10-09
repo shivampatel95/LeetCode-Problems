@@ -57,6 +57,7 @@ Collection of LeetCode Problems...
 | [0001-two-sum](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0383-ransom-note](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -184,6 +185,7 @@ Collection of LeetCode Problems...
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0206-reverse-linked-list) |

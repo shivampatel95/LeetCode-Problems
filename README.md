@@ -42,6 +42,7 @@ Collection of LeetCode Problems...
 | [0209-minimum-size-subarray-sum](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0704-binary-search) |
@@ -61,6 +62,7 @@ Collection of LeetCode Problems...
 | [0146-lru-cache](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0383-ransom-note](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 ## String
 |  |
@@ -79,6 +81,7 @@ Collection of LeetCode Problems...
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0143-reorder-list) |
+| [0496-next-greater-element-i](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -250,4 +253,8 @@ Collection of LeetCode Problems...
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0146-lru-cache) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

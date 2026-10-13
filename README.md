@@ -34,6 +34,7 @@ Collection of LeetCode Problems...
 | [0078-subsets](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0162-find-peak-element) |
@@ -81,6 +82,7 @@ Collection of LeetCode Problems...
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
@@ -258,6 +260,11 @@ Collection of LeetCode Problems...
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->

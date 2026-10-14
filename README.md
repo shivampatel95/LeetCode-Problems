@@ -89,6 +89,7 @@ Collection of LeetCode Problems...
 | [0496-next-greater-element-i](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0901-online-stock-span) |
 ## Two Pointers
 |  |
 | ------- |
@@ -259,6 +260,7 @@ Collection of LeetCode Problems...
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0146-lru-cache) |
+| [0901-online-stock-span](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -270,6 +272,7 @@ Collection of LeetCode Problems...
 | [0496-next-greater-element-i](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -279,4 +282,8 @@ Collection of LeetCode Problems...
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->

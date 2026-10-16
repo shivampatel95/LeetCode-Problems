@@ -35,6 +35,7 @@ Collection of LeetCode Problems...
 | [0079-word-search](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0128-longest-consecutive-sequence](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0162-find-peak-element) |
@@ -63,6 +64,7 @@ Collection of LeetCode Problems...
 | [0001-two-sum](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0383-ransom-note](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0383-ransom-note) |
@@ -289,4 +291,8 @@ Collection of LeetCode Problems...
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0901-online-stock-span) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

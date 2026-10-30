@@ -149,6 +149,7 @@ Collection of LeetCode Problems...
 | ------- |
 | [0009-palindrome-number](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivamp7484/LeetCode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -173,6 +174,7 @@ Collection of LeetCode Problems...
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -183,6 +185,7 @@ Collection of LeetCode Problems...
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |

@@ -149,6 +149,7 @@ Collection of LeetCode Problems...
 | ------- |
 | [0009-palindrome-number](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0509-fibonacci-number) |
@@ -174,6 +175,7 @@ Collection of LeetCode Problems...
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -298,4 +300,8 @@ Collection of LeetCode Problems...
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

@@ -90,6 +90,7 @@ Collection of LeetCode Problems...
 | [0020-valid-parentheses](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0739-daily-temperatures) |
@@ -270,6 +271,7 @@ Collection of LeetCode Problems...
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/shivampatel95/LeetCode-Problems/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
